@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+If managing packages, use `yarn` over other package management tools like `npm` or `pnpm`.
